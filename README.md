@@ -10,3 +10,4 @@ You can change the ammount of created products by changing the value "int maxIte
 # Example Of Output 
 
 ![My-intro-img](https://github.com/Zbush1/Semaphore-Lab-1/blob/main/Code_bupXIy0tBK.png)
+![image](https://github.com/user-attachments/assets/dca20960-f772-4b64-909d-03131e08128e)

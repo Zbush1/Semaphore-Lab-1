@@ -1,5 +1,5 @@
 // Zyaire Bush 
-// Nematode Peoject 
+// semaphore Project 
 //consumer.cpp 
 #include <iostream>
 #include <unistd.h>

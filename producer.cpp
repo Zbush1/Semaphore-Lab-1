@@ -1,5 +1,5 @@
 // Zyaire Bush 
-// Nematode Peoject 
+// semaphore Project 
 //Procuder.cpp 
 #include <iostream>
 #include <unistd.h>

@@ -8,4 +8,5 @@ The producer file will generate items and input them into a table. The consumer 
 You can change the ammount of created products by changing the value "int maxItems = 10;" or by adding a number like so " ./producer 20 & ./consumer & " with "20" being how many will be produced. 
 
 # Example Of Output 
-https://github.com/Zbush1/Semaphore-Lab-1/blob/main/Code_bupXIy0tBK.png
+
+![My-intro-img](https://github.com/Zbush1/Semaphore-Lab-1/blob/main/Code_bupXIy0tBK.png)
